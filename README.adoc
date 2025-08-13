@@ -20,7 +20,7 @@
 
 == Overview
 
-This repository delivers a shaded OSGi bundle of a https://github.com/googleapis/google-api-java-client-services/tree/33cd6c16fb8dbf216d85cfed816e731de18cf8a8/clients/google-api-services-admin/directory_v1/2.0.0[_Admin SDK API Directory v1^] artifact for running inside the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_^] environment.
+This repository delivers a shaded OSGi bundle of a https://github.com/googleapis/google-api-java-client-services/tree/33cd6c16fb8dbf216d85cfed816e731de18cf8a8/clients/google-api-services-admin/directory_v1/2.0.0[_Admin SDK API Directory v1_^] artifact for running inside the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_^] environment.
 
 [upperalpha]
 . Maven coordinates for the bundle delivered by this repository:
