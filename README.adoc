@@ -20,7 +20,7 @@
 
 == Overview
 
-This repository delivers a shaded OSGi bundle of a https://github.com/googleapis/google-api-java-client-services/tree/33cd6c16fb8dbf216d85cfed816e731de18cf8a8/clients/google-api-services-admin/directory_v1/2.0.0[_Admin SDK API Directory v1_^] artifact for running inside the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_^] environment.
+This repository delivers a shaded OSGi bundle of a https://github.com/googleapis/google-api-java-client-services/tree/82f87d0458f983f00f354faec0f2b42ac456919a/clients/google-api-services-admin/directory_v1/2.0.0[_Admin SDK API Directory v1_^] artifact for running inside the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_^] environment.
 
 [upperalpha]
 . Maven coordinates for the bundle delivered by this repository:
@@ -30,7 +30,7 @@ This repository delivers a shaded OSGi bundle of a https://github.com/googleapis
 <dependency>
     <groupId>eu.ciechanowiec</groupId>
     <artifactId>google-api-services-admin-directory</artifactId>
-    <version>20250616</version>
+    <version>20250804</version>
 </dependency>
 ----
 . Maven coordinates for the original _Admin SDK API Directory v1_ artifact that is shaded in the bundle delivered by this repository:
@@ -40,7 +40,7 @@ This repository delivers a shaded OSGi bundle of a https://github.com/googleapis
 <dependency>
     <groupId>com.google.apis</groupId>
     <artifactId>google-api-services-admin-directory</artifactId>
-    <version>directory_v1-rev20250616-2.0.0</version>
+    <version>directory_v1-rev20250804-2.0.0</version>
 </dependency>
 ----
 
